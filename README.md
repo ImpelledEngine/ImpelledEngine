@@ -1,2 +1,2 @@
 # ImpelledEngine
-C++ 2D game engine for fun
+C++/SFML 2D game engine for fun
